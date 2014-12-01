@@ -1,0 +1,5 @@
+name: Tags
+version: 1.0.0
+main: org.cbplugins.tags.Tags
+author: CBPlugins
+description: Plugin to handle name tags
